@@ -1,0 +1,6 @@
+[1/6] Generating LDPC cnProc header files for 128-bit SIMD
+[2/6] Generating LDPC bnProc header files for 128-bit SIMD
+[3/6] Checking validity of VCD files
+[4/6] Building C object CMakeFiles/PHY_NR.dir/openair1/PHY/NR_ESTIMATION/nr_ul_channel_estimation.c.o
+[5/6] Linking C static library libPHY_NR.a
+[6/6] Linking CXX executable nr-softmodem
